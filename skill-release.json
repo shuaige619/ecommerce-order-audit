@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "ecommerce-order-audit",
+  "source_version": "3e708c97fab5b7e9150be45fcb376a67b56faaba378f7c80b28643b11b95ca09",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "e20f9277c031964f9cdcf7b5e2f96223c8bacdd1416ee6b9470481f1caa33ff5",
+    "SKILL.md": "bd45f123b63e7840d19e727d9c59da724b464115c15c24e4fee274316b68d3e7",
+    "scripts/audit_orders.py": "1b5fce776dbfb97337b2e5634c38e67f74fc054cb4b7905cff12ed20995d6295"
+  }
+}
